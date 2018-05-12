@@ -1,4 +1,8 @@
 _repo: Dave-Dawson-with-the-Pacific-Fleet_50217
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50217-h/images/cover.jpg
 creator:
   author:
     agent_name: Bowen, Robert Sidney
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '35796'
     url: http://www.gutenberg.org/2009/agents/35796
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50217#Dave-Dawson-with-the-Pacific-Fleet
 gutenberg_issued: '2015-10-14'
 gutenberg_type: Text
 identifiers:
